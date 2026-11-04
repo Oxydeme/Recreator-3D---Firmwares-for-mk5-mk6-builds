@@ -13,6 +13,35 @@ MK6 Printable link
 https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-plastic-bot?lang=fr
 
 # 
+# Anet1.7
+
+2.1.2.7 Anet 1.7 + ReprapSmart Screen;
+
+---> firmwareAnet1.7.elf
+
+# 
+# BTT
+
+2.1.2.7 Octopus 1.1 + E3Pro Screen;
+
+optimized for dual pultruding!
+
+---> firmwareOctopus1.1dual.zip
+
+2.1.2.7 SkrMiniE3v1 + BttMini12864v2 Screen;
+
+2.1.2.7 SkrMiniE3v2 + BttMini12864v2.1 Screen;
+
+2.1.2.7 SkrMiniE3v3 + E3Pro Screen;
+
+# 
+# Cheetah
+
+2.1.2.7 1.1b Cheetah + E3Pro Screen;
+
+---> firmwareCheetah1.1b.elf
+
+# 
 # Creality 1.1.3 and 1.1.4
 
 2.1.2.7 113 + E3Pro Screen;
@@ -22,12 +51,6 @@ https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-p
 2.1.2.7 114 + E3Pro Screen;
 
 ---> firmwareCreality1.1.4.elf
-# 
-# Cheetah
-
-2.1.2.7 1.1b Cheetah + E3Pro Screen;
-
----> firmwareCheetah1.1b.elf
 
 # 
 # Creality 4.2.2 GD all variants
@@ -103,30 +126,27 @@ https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-p
 ---> firmwareCreality4.3.1.bin
 
 # 
-# Anet1.7
-
-2.1.2.7 Anet 1.7 + ReprapSmart Screen;
-
----> firmwareAnet1.7.elf
-
-# 
-# Robin
+# Elegoo
 
 2.1.2.7 Robin Nano 1.2 + E3Pro Screen;
 
+---> firmwareElegooRobinNano1.2.bin
+
 2.1.2.7 Robin Nano 1.3 + E3Pro Screen;
+
+---> firmwareElegooRobinNano1.3.bin
+
+# 
+# MKS
 
 2.1.2.7 MKS Gen L1 + E3Pro Screen;
 
+---> firmwareMKSGenL1.elf
+
 2.1.2.7 MKS Robin + E3Pro Screen;
 
-2.1.2.7 Octopus 1.1 + E3Pro Screen;
+---> firmwareMKSRobin_e3.bin
 
-2.1.2.7 SkrMiniE3v1 + BttMini12864v2 Screen;
-
-2.1.2.7 SkrMiniE3v2 + BttMini12864v2.1 Screen;
-
-2.1.2.7 SkrMiniE3v3 + E3Pro Screen;
 
 2.1.2.7 SV06 + CR10 Screen;
 
