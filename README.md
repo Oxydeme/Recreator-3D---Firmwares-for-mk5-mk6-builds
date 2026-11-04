@@ -13,6 +13,7 @@ MK6 Printable link
 https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-plastic-bot?lang=fr
 
 2.1.2.7 1.1.3 Creality- ELF Flash, 113 + E3Pro Screen;
+---> firmwareCreality1.1.3.elf
 
 2.1.2.7 1.1.4 Creality- ELF Flash, 114 + E3Pro Screen;
 
