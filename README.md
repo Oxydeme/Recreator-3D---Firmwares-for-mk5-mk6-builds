@@ -8,9 +8,7 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 -Custom BootAnim,StatusScreen,InfoScreen;
 
-![Status Screen](assets/IMG_20261104_173251.jpg)
-
-<img src="assets/IMG_20261104_173251.jpg" width="600">
+![Status Screen](./assets/IMG_20261104_173251.jpg)
 
 -Bed icon removed
 
