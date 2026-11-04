@@ -1,231 +1,263 @@
-<p align="center">
+ <p align="center">
   <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/imager3dbanner.png" width="100%" alt="Recreator3D Banner">
 </p>
 
-# Recreator-3D---Firmwares-for-mk5-mk6-builds
+# Recreator3D – Custom Firmwares for MK5 / MK6
 
-![General](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000630.jpg)
+**Custom Marlin 2.1.2.7 firmware builds for Recreator3D MK5 and MK6 machines.**
 
-Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
+Various motherboard + screen combinations, with dedicated features for plastic recycling and pultrusion.
 
-# 
-# What are the features?
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000630.jpg" width="600" alt="General">
+</p>
 
--Marlin 2.1.2.7
+🌐 Website: [www.recreator3D.com](https://www.recreator3d.com)
 
--Custom BootScreen,Status Screen,InfoScreen;
+---
 
--Bed icon removed
+# Features
 
--Status icon replaced by Pultrude icons - pultrude anim,
+### Core firmware
+- Based on Marlin 2.1.2.7.
+- Custom Bootscreen, Status Screen and Info Screen.
+- Bed icon removed.
+- Status icons replaced with custom pultrusion icons and animations.
+- X, Y and Z indicators replaced with `>www.recreator3D.com`.
 
--X,Y,Z replaced by >www.recreator3D.com
+### Pultrusion controls
+- Integrated Pultrude OPT program (thanks to @JoshuaTaylor).
+- Continuous pultrusion operation until manually stopped.
+- Dedicated STOP and PAUSE buttons.
+- Adjustable pultrusion speed, from very slow operation up to 1800.
+- Material selection: rPET, HDPE, PLA, PETG and PP.
+- Selectable spooler rotation direction (Roll), making the firmware compatible with MK5 and MK6 configurations.
+- Filaruptor support, depending on firmware build.
 
--Inbuilt Pultrude OPT, thanks to @JoshuaTaylor inbuilt Pultrude program 
+### User interface
+- Three selectable languages directly from the menu:
+  - English
+  - French
+  - Spanish
+- Dedicated R3D Emergency Command menu as an alternative command interface.
+- Custom interface designed specifically for Recreator3D.
 
-(infinite Pultrude command, once launched, need to be stoped -either way-)
+### Maintenance
+- Integrated PID AutoTune.
 
--STOP and PAUSE button,
+---
 
--Pultrude Speed Selection (really slow up to 1800)
+# Screenshots
 
--Pultrude Materia Select (rPet, HDPE , PLA, PETG, PP) 
+### Firmware 2.1.2.7
 
--Selectable Spinning Dir (Roll) to adjust Spooler dir, making this fw compatible mk5/mk6
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000626.jpg" width="600" alt="Firmware 2.1.2.7">
+</p>
 
--Allow for 3 different languages, right from the menu, English, French, Spanish,
+### Bootscreen
 
--In case none work here is a R3D Command Menu
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000625.jpg" width="600" alt="Bootscreen">
+</p>
 
--Support for Filaruptor, varying in fw
+### Status Screen
 
--PID AutoTune
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173251.jpg" width="600" alt="Status Screen">
+</p>
 
+### Info Screen
 
-![Firmware 2.1.2.7](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000626.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000649.jpg" width="600" alt="Info Screen">
+</p>
 
-![Bootscreen](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000625.jpg)
+### STOP / PAUSE
 
-![Status Screen](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173251.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173311.jpg" width="600" alt="STOP and PAUSE">
+</p>
 
-![Info Screen](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000649.jpg)
+### Pultrusion Speed Selection
 
-![STOP / PAUSE](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173311.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173403.jpg" width="600" alt="Speed">
+</p>
 
-![Speed](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173403.jpg)
+### Material Selection
 
-![Material](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173413.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173413.jpg" width="600" alt="Material">
+</p>
 
-![Roll of the Spoller while Pultruding](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173320.jpg)
+### Spooler Rotation Direction
 
-![Lang Select](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173328.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173320.jpg" width="600" alt="Spooler rotation">
+</p>
 
-![R3D Emergency Command](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173335.jpg)
+### Language Selection
 
-![R3D Firmware](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173341.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173328.jpg" width="600" alt="Language Selection">
+</p>
 
-![Filarupteur](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000725.jpg)
+### R3D Emergency Command
 
-![PID AutoTune](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000808.jpg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173335.jpg" width="600" alt="R3D Emergency Command">
+</p>
 
-# 
-# Reminders:
+### R3D Firmware Interface
 
-MK5
-https://www.recreator3d.com/mk5kitender3
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173341.jpg" width="600" alt="R3D Firmware">
+</p>
 
-MK5 Printable link
-https://www.printables.com/model/179820-recreator-3d-mk5kit-ender3-pultrusion-unit?lang=fr
+### Filaruptor
 
-MK6
-https://www.recreator3d.com/mk6funsize
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000725.jpg" width="600" alt="Filaruptor">
+</p>
 
-MK6 Printable link
-https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-plastic-bot?lang=fr
-# 
-# FIRMWARES
-# 
-# Anet1.7
+### PID AutoTune
 
-2.1.2.7 Anet 1.7 + ReprapSmart Screen;
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000808.jpg" width="600" alt="PID AutoTune">
+</p>
 
----> firmwareAnet1.7.elf
+---
 
-# 
-# BTT
+# Recreator3D Projects
 
-2.1.2.7 Octopus 1.1 + E3Pro Screen;
+### MK5
 
-optimized for dual pultruding!
+- [Recreator3D MK5 Kit – Ender 3](https://www.recreator3d.com/mk5kitender3)
+- [MK5 Printable Files – Printables](https://www.printables.com/model/179820-recreator-3d-mk5kit-ender3-pultrusion-unit?lang=fr)
 
----> firmwareOctopus1.1dual.zip
+### MK6
 
-2.1.2.7 SkrMiniE3v1 + BttMini12864v2 Screen;
+- [Recreator3D MK6 FunSize](https://www.recreator3d.com/mk6funsize)
+- [MK6 Printable Files – Printables](https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-plastic-bot?lang=fr)
 
----> firmwareSkrMiniE3v1.1.bin
+---
 
-2.1.2.7 SkrMiniE3v2 + BttMini12864v2.1 Screen;
+# Firmware Downloads
 
----> firmwareSkrMiniE3v2.bin
+**Marlin 2.1.2.7 – Available builds**
 
-2.1.2.7 SkrMiniE3v3 + E3Pro Screen;
+Choose the firmware matching your motherboard, MCU variant and screen configuration.
 
----> firmwareSkrMiniE3v3.bin
+> ⚠️ **IMPORTANT:** Do not flash a firmware intended for a different MCU variant or motherboard. Verify your hardware before installation.
 
-# 
-# Cheetah
+## Anet
 
-2.1.2.7 1.1b Cheetah + E3Pro Screen;
+| Configuration | Firmware |
+|---|---|
+| Anet 1.7 + ReprapSmart Screen | `firmwareAnet1.7.elf` |
 
----> firmwareCheetah1.1b.elf
+## BigTreeTech (BTT)
 
-# 
-# Creality 1.1.3 and 1.1.4
+| Configuration | Firmware |
+|---|---|
+| Octopus 1.1 + E3Pro Screen | `firmwareOctopus1.1dual.zip` |
+| SKR Mini E3 V1 + BTT Mini12864 V2 | `firmwareSkrMiniE3v1.1.bin` |
+| SKR Mini E3 V2 + BTT Mini12864 V2.1 | `firmwareSkrMiniE3v2.bin` |
+| SKR Mini E3 V3 + E3Pro Screen | `firmwareSkrMiniE3v3.bin` |
 
-2.1.2.7 113 + E3Pro Screen;
+**Special build:** Octopus 1.1 version optimized for dual pultruding.
 
----> firmwareCreality1.1.3.elf
+## Cheetah
 
-2.1.2.7 114 + E3Pro Screen;
+| Configuration | Firmware |
+|---|---|
+| Cheetah 1.1b + E3Pro Screen | `firmwareCheetah1.1b.elf` |
 
----> firmwareCreality1.1.4.elf
+## Creality 1.1.3 / 1.1.4
 
-# 
-# Creality 4.2.2 GD all variants
+| Configuration | Firmware |
+|---|---|
+| Creality 1.1.3 + E3Pro Screen | `firmwareCreality1.1.3.elf` |
+| Creality 1.1.4 + E3Pro Screen | `firmwareCreality1.1.4.elf` |
 
-2.1.2.7 422 GD A + E3Pro Screen;
+## Creality 4.2.2 – GD MCU
 
----> firmwareCreality4.2.2_GD_A.bin
+| MCU variant | Firmware |
+|---|---|
+| GD A | `firmwareCreality4.2.2_GD_A.bin` |
+| GD B | `firmwareCreality4.2.2_GD_B.bin` |
+| GD C | `firmwareCreality4.2.2_GD_C.bin` |
+| GD E | `firmwareCreality4.2.2_GD_E.bin` |
+| GD H | `firmwareCreality4.2.2_GD_H.bin` |
+| GD H8 | `firmwareCreality4.2.2_GD_H8.bin` |
 
-2.1.2.7 422 GD B + E3Pro Screen;
+## Creality 4.2.2 – STM32 MCU
 
----> firmwareCreality4.2.2_GD_B.bin
+| MCU variant | Firmware |
+|---|---|
+| STM A | `firmwareCreality4.2.2_STM_A.bin` |
+| STM B | `firmwareCreality4.2.2_STM_B.bin` |
+| STM C | `firmwareCreality4.2.2_STM_C.bin` |
+| STM E | `firmwareCreality4.2.2_STM_E.bin` |
+| STM H | `firmwareCreality4.2.2_STM_H.bin` |
+| STM H8 | `firmwareCreality4.2.2_STM_H8.bin` |
+| STM T8 | `firmwareCreality4.2.2_STM_T8.bin` |
 
-2.1.2.7 422 GD C + E3Pro Screen;
+## Creality 4.2.7
 
----> firmwareCreality4.2.2_GD_C.bin
+| Configuration | Firmware |
+|---|---|
+| Creality 4.2.7 + E3Pro Screen | `firmwareCreality4.2.7.bin` |
 
-2.1.2.7 422 GD E + E3Pro Screen;
+## Creality 4.3.1
 
----> firmwareCreality4.2.2_GD_E.bin
+| Configuration | Firmware |
+|---|---|
+| Creality 4.3.1 + E3Pro Screen | `firmwareCreality4.3.1.bin` |
 
-2.1.2.7 422 GD H + E3Pro Screen;
+## Elegoo
 
----> firmwareCreality4.2.2_GD_H.bin
+| Configuration | Firmware |
+|---|---|
+| Robin Nano 1.2 + E3Pro Screen | `firmwareElegooRobinNano1.2.bin` |
+| Robin Nano 1.3 + E3Pro Screen | `firmwareElegooRobinNano1.3.bin` |
 
-2.1.2.7 422 GD H8 + E3Pro Screen;
+## MKS
 
----> firmwareCreality4.2.2_GD_H8.bin
+| Configuration | Firmware |
+|---|---|
+| MKS Gen L1 + E3Pro Screen | `firmwareMKSGenL1.elf` |
+| MKS Robin + E3Pro Screen | `firmwareMKSRobin_e3.bin` |
 
-# 
-# Creality 4.2.2 STM all variants
+## Other boards
 
+| Configuration | Firmware |
+|---|---|
+| SV06 + CR10 Screen | `firmwareSV06.bin` |
 
-2.1.2.7 422 STM A + E3Pro Screen;
+---
 
----> firmwareCreality4.2.2_STM_A.bin
+# Installation
 
-2.1.2.7 422 STM B + E3Pro Screen;
+1. Identify your motherboard and MCU variant.
+2. Verify your screen configuration.
+3. Download the matching firmware.
+4. Follow the appropriate flashing procedure for your board.
+5. Verify the machine operation before starting a pultrusion job.
 
----> firmwareCreality4.2.2_STM_B.bin
+Always keep a backup of your original firmware and configuration.
 
-2.1.2.7 422 STM C + E3Pro Screen;
+---
 
----> firmwareCreality4.2.2_STM_C.bin
+# Credits
 
-2.1.2.7 422 STM E + E3Pro Screen;
+- [Marlin Firmware](https://github.com/MarlinFirmware/Marlin) – Open-source firmware foundation.
+- @JoshuaTaylor – Project Creator
+- [Recreator3D](https://www.recreator3d.com/) – MK5 and MK6 projects.
 
----> firmwareCreality4.2.2_STM_E.bin
+---
 
-2.1.2.7 422 STM H + E3Pro Screen;
-
----> firmwareCreality4.2.2_STM_H.bin
-
-2.1.2.7 422 STM H8 + E3Pro Screen;
-
----> firmwareCreality4.2.2_STM_H8.bin
-
-2.1.2.7 422 STM T8 + E3Pro Screen;
-
----> firmwareCreality4.2.2_STM_T8.bin
-
-# 
-# Creality 4.2.7
-
-2.1.2.7 427 + E3Pro Screen;
-
----> firmwareCreality4.2.7.bin
-
-# 
-# Creality 4.3.1
-
-2.1.2.7 431 + E3Pro Screen;
-
----> firmwareCreality4.3.1.bin
-
-# 
-# Elegoo
-
-2.1.2.7 Robin Nano 1.2 + E3Pro Screen;
-
----> firmwareElegooRobinNano1.2.bin
-
-2.1.2.7 Robin Nano 1.3 + E3Pro Screen;
-
----> firmwareElegooRobinNano1.3.bin
-
-# 
-# MKS
-
-2.1.2.7 MKS Gen L1 + E3Pro Screen;
-
----> firmwareMKSGenL1.elf
-
-2.1.2.7 MKS Robin + E3Pro Screen;
-
----> firmwareMKSRobin_e3.bin
-
-
-2.1.2.7 SV06 + CR10 Screen;
-
----> firmwareSV06.bin
+<p align="center">
+  **Recreator3D – Turning plastic waste into something useful.**
+</p>
