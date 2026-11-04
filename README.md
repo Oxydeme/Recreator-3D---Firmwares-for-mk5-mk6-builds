@@ -3,8 +3,12 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 # 
 # What are the features?
-
+-Marlin 2.1.2.7
 -Inbuilt Pultrude OPT,
+-Pultrude Speed Selection,
+-Pultrude Materia Select,
+-Adjustable Pultrude Spooler dir with a menu button, 
+-
   
 
 # 
