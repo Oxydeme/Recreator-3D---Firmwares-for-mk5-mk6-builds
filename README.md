@@ -56,7 +56,11 @@ https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-p
 
 ---> firmwareCreality4.2.2_GD_H8.bin
 
-2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM A + E3Pro Screen;
+# 
+# Creality 4.2.2 STM all variants
+
+
+2.1.2.7 422 STM A + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_STM_A.bin
 
