@@ -1,5 +1,15 @@
 # Recreator-3D---Firmwares-for-mk5-mk6-builds
 Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
+
+# 
+# What are the features?
+
+-Inbuilt Pultrude OPT,
+  
+
+# 
+# Reminders:
+
 MK5
 https://www.recreator3d.com/mk5kitender3
 
@@ -11,7 +21,8 @@ https://www.recreator3d.com/mk6funsize
 
 MK6 Printable link
 https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-plastic-bot?lang=fr
-
+# 
+# FIRMWARES
 # 
 # Anet1.7
 
