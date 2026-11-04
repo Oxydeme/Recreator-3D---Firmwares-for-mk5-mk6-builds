@@ -6,6 +6,14 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 -Marlin 2.1.2.7
 
+-Custom BootAnim,StatusScreen,InfoScreen;
+
+-Bed icon removed
+
+-Status icon replaced by Pultrude icons - pultrude anim,
+
+-X,Y,Z replaced by >www.recreator3D.com
+
 -Inbuilt Pultrude OPT, thanks to @JoshuaTaylor inbuilt Pultrude program
 
 -STOP and PAUSE button,
@@ -14,7 +22,7 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 -Pultrude Materia Select (rPet, HDPE , PLA, PETG, PP) 
 
--Selectable Spinning Dir (Roll)
+-Selectable Spinning Dir (Roll) to adjust Spooler dir, making this fw compatible mk5/mk6
 
 -Allow for 3 different languages, right from the menu, English, French, Spanish,
   
