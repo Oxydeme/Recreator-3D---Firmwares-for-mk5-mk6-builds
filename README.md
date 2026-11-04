@@ -6,17 +6,17 @@ https://www.recreator3d.com/mk5kitender3
 MK6
 https://www.recreator3d.com/mk6funsize
 
-R3D Marlin 2.1.2.7 1.1.3 Creality- ELF Flash, needs to be computer pushed, -1.1.3 + E3Pro Screen;
-R3D Marlin 2.1.2.7 1.1.4 Creality- ELF Flash, needs to be computer pushed,-1.1.4 + E3Pro Screen;
-R3D Marlin 2.1.2.7 1.1b Cheetah- BIN Flash, 1.1b Cheetah + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD A + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD B + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD C + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD E + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD H + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD H8 + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM A + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM B + E3Pro Screen;
+2.1.2.7 1.1.3Creality- ELF Flash, 113 + E3Pro Screen;
+2.1.2.7 1.1.4 Creality- ELF Flash,114 + E3Pro Screen;
+2.1.2.7 1.1b Cheetah- BIN Flash, 1.1b Cheetah + E3Pro Screen;
+2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD A + E3Pro Screen;
+2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD B + E3Pro Screen;
+2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD C + E3Pro Screen;
+2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD E + E3Pro Screen;
+2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD H + E3Pro Screen;
+2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD H8 + E3Pro Screen;
+2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM A + E3Pro Screen;
+2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM B + E3Pro Screen;
 R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM C + E3Pro Screen;
 R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM E + E3Pro Screen;
 R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM H + E3Pro Screen;
