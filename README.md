@@ -109,8 +109,6 @@ Various motherboard + screen combinations, with dedicated features for plastic r
   <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173335.jpg" width="600" alt="R3D Emergency Command">
 </p>
 
-### R3D Firmware Interface
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173341.jpg" width="600" alt="R3D Firmware">
 </p>
