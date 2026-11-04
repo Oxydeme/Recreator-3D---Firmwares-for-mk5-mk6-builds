@@ -6,9 +6,9 @@ https://www.recreator3d.com/mk5kitender3
 MK6
 https://www.recreator3d.com/mk6funsize
 
-2.1.2.7 1.1.3Creality- ELF Flash, 113 + E3Pro Screen;
+2.1.2.7 1.1.3 Creality- ELF Flash, 113 + E3Pro Screen;
 
-2.1.2.7 1.1.4 Creality- ELF Flash,114 + E3Pro Screen;
+2.1.2.7 1.1.4 Creality- ELF Flash, 114 + E3Pro Screen;
 
 2.1.2.7 1.1b Cheetah- BIN Flash, 1.1b Cheetah + E3Pro Screen;
 
@@ -31,25 +31,34 @@ https://www.recreator3d.com/mk6funsize
 R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM C + E3Pro Screen;
 
 R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM E + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM H + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM H8 + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM T8 + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.2.7 Creality- BIN Flash, 427 + E3Pro Screen;
-R3D Marlin 2.1.2.7 4.3.1 Creality- BIN Flash, 431 + E3Pro Screen;
-R3D Marlin 2.1.2.7 Anet 1.7- ELF Flash, needs to be computer pushed, Anet + ReprapSmart Screen;
-R3D Marlin 2.1.2.7 Robin Nano 1.2- BIN Flash, Robin Nano 1.2 + E3Pro Screen;
-R3D Marlin 2.1.2.7 Robin Nano 1.3- BIN Flash, Robin Nano 1.3 + E3Pro Screen;
-R3D Marlin 2.1.2.7 MKS Gen L1- ELF Flash, needs to be computer pushed, MKS Gen L1 + E3Pro Screen;
-R3D Marlin 2.1.2.7 MKS Robin- BIN Flash, MKS Robin + E3Pro Screen;
-R3D Marlin 2.1.2.7 Octopus 1.1- BIN Flash, Octopus 1.1 + E3Pro Screen;
-R3D Marlin 2.1.2.7 SKR Mini E3v1- BIN Flash, SkrMiniE3v1 + BttMini12864v2 Screen;
-R3D Marlin 2.1.2.7 SKR Mini E3v2- BIN Flash, SkrMiniE3v2 + BttMini12864v2.1 Screen;
-R3D Marlin 2.1.2.7 SKR Mini E3v3- BIN Flash, SkrMiniE3v3 + E3Pro Screen;
-R3D Marlin 2.1.2.7 SV06- BIN Flash, SV06 + CR10 Screen;
 
-Geeetech GT2560
-	R3D Marlin 2.1.2.7 GT2560- ELF Flash, needs to be computer pushed, GT2560 + ReprapSmart Screen -Untested;
-	
-Mizar
-	R3D Marlin 2.1.2.7 Mizar- BIN Flash, Mizar + SSD1306 OLED Full Graphics Display -DON'T upload not working;
+R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM H + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM H8 + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM T8 + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 4.2.7 Creality- BIN Flash, 427 + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 4.3.1 Creality- BIN Flash, 431 + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 Anet 1.7- ELF Flash, needs to be computer pushed, Anet + ReprapSmart Screen;
+
+R3D Marlin 2.1.2.7 Robin Nano 1.2- BIN Flash, Robin Nano 1.2 + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 Robin Nano 1.3- BIN Flash, Robin Nano 1.3 + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 MKS Gen L1- ELF Flash, needs to be computer pushed, MKS Gen L1 + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 MKS Robin- BIN Flash, MKS Robin + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 Octopus 1.1- BIN Flash, Octopus 1.1 + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 SKR Mini E3v1- BIN Flash, SkrMiniE3v1 + BttMini12864v2 Screen;
+
+R3D Marlin 2.1.2.7 SKR Mini E3v2- BIN Flash, SkrMiniE3v2 + BttMini12864v2.1 Screen;
+
+R3D Marlin 2.1.2.7 SKR Mini E3v3- BIN Flash, SkrMiniE3v3 + E3Pro Screen;
+
+R3D Marlin 2.1.2.7 SV06- BIN Flash, SV06 + CR10 Screen;
 
