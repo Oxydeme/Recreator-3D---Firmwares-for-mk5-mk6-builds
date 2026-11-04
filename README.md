@@ -24,13 +24,22 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 -Pultrude Speed Selection (really slow up to 1800)
 
+![Speed](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173403.jpg)
+
 -Pultrude Materia Select (rPet, HDPE , PLA, PETG, PP) 
 
 -Selectable Spinning Dir (Roll) to adjust Spooler dir, making this fw compatible mk5/mk6
 
 ![Roll of the Spoller while Pultruding](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173320.jpg)
+
 -Allow for 3 different languages, right from the menu, English, French, Spanish,
-  
+
+![Lang Select](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173328.jpg)
+
+-In case none work here is a R3D Command Menu
+
+![R3D Emergency Command](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173335.jpg)
+![R3D Firmware](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173341.jpg)
 
 # 
 # Reminders:
