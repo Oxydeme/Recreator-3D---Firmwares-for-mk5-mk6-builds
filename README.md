@@ -30,9 +30,15 @@ optimized for dual pultruding!
 
 2.1.2.7 SkrMiniE3v1 + BttMini12864v2 Screen;
 
+---> firmwareSkrMiniE3v1.1.bin
+
 2.1.2.7 SkrMiniE3v2 + BttMini12864v2.1 Screen;
 
+---> firmwareSkrMiniE3v2.bin
+
 2.1.2.7 SkrMiniE3v3 + E3Pro Screen;
+
+---> firmwareSkrMiniE3v3.bin
 
 # 
 # Cheetah
@@ -150,3 +156,4 @@ optimized for dual pultruding!
 
 2.1.2.7 SV06 + CR10 Screen;
 
+---> firmwareSV06.bin
