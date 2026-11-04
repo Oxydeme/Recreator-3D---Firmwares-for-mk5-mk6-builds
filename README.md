@@ -15,44 +15,44 @@ https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-p
 # 
 # Creality 1.1.3 and 1.1.4
 
-2.1.2.7 1.1.3 Creality- ELF Flash, 113 + E3Pro Screen;
+2.1.2.7 113 + E3Pro Screen;
 
 ---> firmwareCreality1.1.3.elf
 
-2.1.2.7 1.1.4 Creality- ELF Flash, 114 + E3Pro Screen;
+2.1.2.7 114 + E3Pro Screen;
 
 ---> firmwareCreality1.1.4.elf
 # 
 # Cheetah
 
-2.1.2.7 1.1b Cheetah- ELF Flash, 1.1b Cheetah + E3Pro Screen;
+2.1.2.7 1.1b Cheetah + E3Pro Screen;
 
 ---> firmwareCheetah1.1b.elf
 
 # 
 # Creality 4.2.2 GD all variants
 
-2.1.2.7 4.2.2 GD A Creality- BIN Flash, 422 GD A + E3Pro Screen;
+2.1.2.7 422 GD A + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_GD_A.bin
 
-2.1.2.7 4.2.2 GD B Creality- BIN Flash, 422 GD B + E3Pro Screen;
+2.1.2.7 422 GD B + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_GD_B.bin
 
-2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD C + E3Pro Screen;
+2.1.2.7 422 GD C + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_GD_C.bin
 
-2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD E + E3Pro Screen;
+2.1.2.7 422 GD E + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_GD_E.bin
 
-2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD H + E3Pro Screen;
+2.1.2.7 422 GD H + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_GD_H.bin
 
-2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD H8 + E3Pro Screen;
+2.1.2.7 422 GD H8 + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_GD_H8.bin
 
