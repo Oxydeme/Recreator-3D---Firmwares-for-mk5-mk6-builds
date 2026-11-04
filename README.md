@@ -2,9 +2,11 @@
 Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 MK5
 https://www.recreator3d.com/mk5kitender3
+https://www.printables.com/model/179820-recreator-3d-mk5kit-ender3-pultrusion-unit?lang=fr
 
 MK6
 https://www.recreator3d.com/mk6funsize
+https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-plastic-bot?lang=fr
 
 2.1.2.7 1.1.3 Creality- ELF Flash, 113 + E3Pro Screen;
 
