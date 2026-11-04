@@ -64,41 +64,69 @@ https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-p
 
 ---> firmwareCreality4.2.2_STM_A.bin
 
-2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM B + E3Pro Screen;
+2.1.2.7 422 STM B + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_STM_B.bin
 
-4.2.2 Creality- BIN Flash, 422 STM C + E3Pro Screen;
+2.1.2.7 422 STM C + E3Pro Screen;
 
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM E + E3Pro Screen;
+---> firmwareCreality4.2.2_STM_C.bin
 
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM H + E3Pro Screen;
+2.1.2.7 422 STM E + E3Pro Screen;
 
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM H8 + E3Pro Screen;
+---> firmwareCreality4.2.2_STM_E.bin
 
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM T8 + E3Pro Screen;
+2.1.2.7 422 STM H + E3Pro Screen;
 
-R3D Marlin 2.1.2.7 4.2.7 Creality- BIN Flash, 427 + E3Pro Screen;
+---> firmwareCreality4.2.2_STM_H.bin
 
-R3D Marlin 2.1.2.7 4.3.1 Creality- BIN Flash, 431 + E3Pro Screen;
+2.1.2.7 422 STM H8 + E3Pro Screen;
 
-R3D Marlin 2.1.2.7 Anet 1.7- ELF Flash, needs to be computer pushed, Anet + ReprapSmart Screen;
+---> firmwareCreality4.2.2_STM_H8.bin
 
-R3D Marlin 2.1.2.7 Robin Nano 1.2- BIN Flash, Robin Nano 1.2 + E3Pro Screen;
+2.1.2.7 422 STM T8 + E3Pro Screen;
 
-R3D Marlin 2.1.2.7 Robin Nano 1.3- BIN Flash, Robin Nano 1.3 + E3Pro Screen;
+---> firmwareCreality4.2.2_STM_T8.bin
 
-R3D Marlin 2.1.2.7 MKS Gen L1- ELF Flash, needs to be computer pushed, MKS Gen L1 + E3Pro Screen;
+# 
+# Creality 4.2.7
 
-R3D Marlin 2.1.2.7 MKS Robin- BIN Flash, MKS Robin + E3Pro Screen;
+2.1.2.7 427 + E3Pro Screen;
 
-R3D Marlin 2.1.2.7 Octopus 1.1- BIN Flash, Octopus 1.1 + E3Pro Screen;
+---> firmwareCreality4.2.7.bin
 
-R3D Marlin 2.1.2.7 SKR Mini E3v1- BIN Flash, SkrMiniE3v1 + BttMini12864v2 Screen;
+# 
+# Creality 4.3.1
 
-R3D Marlin 2.1.2.7 SKR Mini E3v2- BIN Flash, SkrMiniE3v2 + BttMini12864v2.1 Screen;
+2.1.2.7 431 + E3Pro Screen;
 
-R3D Marlin 2.1.2.7 SKR Mini E3v3- BIN Flash, SkrMiniE3v3 + E3Pro Screen;
+---> firmwareCreality4.3.1.bin
 
-R3D Marlin 2.1.2.7 SV06- BIN Flash, SV06 + CR10 Screen;
+# 
+# Anet1.7
+
+2.1.2.7 Anet 1.7 + ReprapSmart Screen;
+
+---> firmwareAnet1.7.elf
+
+# 
+# Robin
+
+2.1.2.7 Robin Nano 1.2 + E3Pro Screen;
+
+2.1.2.7 Robin Nano 1.3 + E3Pro Screen;
+
+2.1.2.7 MKS Gen L1 + E3Pro Screen;
+
+2.1.2.7 MKS Robin + E3Pro Screen;
+
+2.1.2.7 Octopus 1.1 + E3Pro Screen;
+
+2.1.2.7 SkrMiniE3v1 + BttMini12864v2 Screen;
+
+2.1.2.7 SkrMiniE3v2 + BttMini12864v2.1 Screen;
+
+2.1.2.7 SkrMiniE3v3 + E3Pro Screen;
+
+2.1.2.7 SV06 + CR10 Screen;
 
