@@ -29,6 +29,9 @@ https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-p
 
 ---> firmwareCheetah1.1b.elf
 
+# 
+# Creality 4.2.2 GD all variants
+
 2.1.2.7 4.2.2 GD A Creality- BIN Flash, 422 GD A + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_GD_A.bin
