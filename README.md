@@ -1,5 +1,5 @@
 <p align="center">
-  ![Lang Select](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173328.jpg)
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/imager3dbanner.png" width="100%" alt="Recreator3D Banner">
 </p>
 
 # Recreator-3D---Firmwares-for-mk5-mk6-builds
