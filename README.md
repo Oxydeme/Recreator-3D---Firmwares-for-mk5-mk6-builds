@@ -6,7 +6,7 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 -Marlin 2.1.2.7
 
--Custom BootAnim,StatusScreen,InfoScreen;
+-Custom BootAnim,Status Screen,InfoScreen;
 
 ![Status Screen](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173251.jpg)
 
@@ -20,12 +20,15 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 -STOP and PAUSE button,
 
+![STOP / PAUSE](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173311.jpg)
+
 -Pultrude Speed Selection (really slow up to 1800)
 
 -Pultrude Materia Select (rPet, HDPE , PLA, PETG, PP) 
 
 -Selectable Spinning Dir (Roll) to adjust Spooler dir, making this fw compatible mk5/mk6
 
+![Roll of the Spoller while Pultruding](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173320.jpg)
 -Allow for 3 different languages, right from the menu, English, French, Spanish,
   
 
