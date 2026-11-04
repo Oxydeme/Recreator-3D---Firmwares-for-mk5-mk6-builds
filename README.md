@@ -1,4 +1,7 @@
 # Recreator-3D---Firmwares-for-mk5-mk6-builds
+
+![General](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000630.jpg)
+
 Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 # 
@@ -6,9 +9,15 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 -Marlin 2.1.2.7
 
--Custom BootAnim,Status Screen,InfoScreen;
+![Firmware 2.1.2.7](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000626.jpg)
+
+-Custom BootScreen,Status Screen,InfoScreen;
+
+![Bootscreen](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000625.jpg)
 
 ![Status Screen](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173251.jpg)
+
+![Info Screen](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000649.jpg)
 
 -Bed icon removed
 
@@ -16,7 +25,9 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 -X,Y,Z replaced by >www.recreator3D.com
 
--Inbuilt Pultrude OPT, thanks to @JoshuaTaylor inbuilt Pultrude program
+-Inbuilt Pultrude OPT, thanks to @JoshuaTaylor inbuilt Pultrude program 
+
+(infinite Pultrude command, once launched, need to be stoped -either way-)
 
 -STOP and PAUSE button,
 
@@ -27,6 +38,8 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 ![Speed](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173403.jpg)
 
 -Pultrude Materia Select (rPet, HDPE , PLA, PETG, PP) 
+
+![Material](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173413.jpg)
 
 -Selectable Spinning Dir (Roll) to adjust Spooler dir, making this fw compatible mk5/mk6
 
@@ -40,6 +53,14 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 ![R3D Emergency Command](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173335.jpg)
 ![R3D Firmware](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173341.jpg)
+
+-Support for Filaruptor, varying in fw
+
+![Filarupteur](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000725.jpg)
+
+-PID AutoTune
+
+![PID AutoTune](https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000808.jpg)
 
 # 
 # Reminders:
