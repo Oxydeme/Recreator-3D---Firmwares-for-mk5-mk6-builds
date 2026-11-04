@@ -3,12 +3,20 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 
 # 
 # What are the features?
+
 -Marlin 2.1.2.7
--Inbuilt Pultrude OPT,
--Pultrude Speed Selection,
--Pultrude Materia Select,
--Adjustable Pultrude Spooler dir with a menu button, 
--
+
+-Inbuilt Pultrude OPT, thanks to @JoshuaTaylor inbuilt Pultrude program
+
+-STOP and PAUSE button,
+
+-Pultrude Speed Selection (really slow up to 1800)
+
+-Pultrude Materia Select (rPet, HDPE , PLA, PETG, PP) 
+
+-Selectable Spinning Dir (Roll)
+
+-Allow for 3 different languages, right from the menu, English, French, Spanish,
   
 
 # 
