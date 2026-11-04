@@ -14,7 +14,7 @@ https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-p
 
 2.1.2.7 1.1.3 Creality- ELF Flash, 113 + E3Pro Screen;
 
----> firmwareCreality1.1.3.elf
+# ---> firmwareCreality1.1.3.elf
 
 2.1.2.7 1.1.4 Creality- ELF Flash, 114 + E3Pro Screen;
 
@@ -24,27 +24,39 @@ https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-p
 
 ---> firmwareCheetah1.1b.elf
 
-2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD A + E3Pro Screen;
+2.1.2.7 4.2.2 GD A Creality- BIN Flash, 422 GD A + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_GD_A.bin
 
-2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD B + E3Pro Screen;
+2.1.2.7 4.2.2 GD B Creality- BIN Flash, 422 GD B + E3Pro Screen;
 
 ---> firmwareCreality4.2.2_GD_B.bin
 
 2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD C + E3Pro Screen;
 
+---> firmwareCreality4.2.2_GD_C.bin
+
 2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD E + E3Pro Screen;
+
+---> firmwareCreality4.2.2_GD_E.bin
 
 2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD H + E3Pro Screen;
 
+---> firmwareCreality4.2.2_GD_H.bin
+
 2.1.2.7 4.2.2 Creality- BIN Flash, 422 GD H8 + E3Pro Screen;
+
+---> firmwareCreality4.2.2_GD_H8.bin
 
 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM A + E3Pro Screen;
 
+---> firmwareCreality4.2.2_STM_A.bin
+
 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM B + E3Pro Screen;
 
-R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM C + E3Pro Screen;
+---> firmwareCreality4.2.2_STM_B.bin
+
+4.2.2 Creality- BIN Flash, 422 STM C + E3Pro Screen;
 
 R3D Marlin 2.1.2.7 4.2.2 Creality- BIN Flash, 422 STM E + E3Pro Screen;
 
