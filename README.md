@@ -7,6 +7,7 @@ Various combo mobo + screen for latest R3D firmwares - www.recreator3D.com
 -Marlin 2.1.2.7
 
 -Custom BootAnim,StatusScreen,InfoScreen;
+![Status Screen](assets/IMG_20261104_173251.jpg)
 
 -Bed icon removed
 
