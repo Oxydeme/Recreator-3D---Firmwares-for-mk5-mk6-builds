@@ -2,11 +2,9 @@
   <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/imager3dbanner.png" width="100%" alt="Recreator3D Custom Marlin Firmware Banner">
 </p>
 
-# Recreator3D – Custom Marlin 2.1.2.7 Firmwares for MK5 & MK6 Builds
-
 [![Marlin Firmware](https://img.shields.io/badge/Marlin-2.1.2.7-blue.svg)](https://github.com/MarlinFirmware/Marlin)
 [![Recreator3D Project](https://img.shields.io/badge/Project-Recreator3D-green.svg)](https://www.recreator3d.com)
-
+[![rPET Filament](https://img.shields.io/badge/Recycling-rPET-green.svg?logo=recycle&logoColor=white)](https://www.recreator3d.com)
 **Custom Marlin 2.1.2.7 firmware builds optimized for Recreator3D MK5 and MK6 plastic pultrusion and recycling units.**
 
 Convert plastic bottles (rPET, HDPE, PETG, PLA, PP) into usable 3D printing filament with dedicated motherboard builds, customized screen menus, pultrusion motor controls, and Filaruptor support.
