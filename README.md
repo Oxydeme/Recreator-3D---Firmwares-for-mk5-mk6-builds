@@ -47,100 +47,6 @@ Various motherboard + screen combinations, with dedicated features for plastic r
 
 ---
 
-# Screenshots
-
-### Firmware 2.1.2.7
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000626.jpg" width="600" alt="Firmware 2.1.2.7">
-</p>
-
-### Bootscreen
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000625.jpg" width="600" alt="Bootscreen">
-</p>
-
-### Status Screen
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173251.jpg" width="600" alt="Status Screen">
-</p>
-
-### Info Screen
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000649.jpg" width="600" alt="Info Screen">
-</p>
-
-### STOP / PAUSE
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173311.jpg" width="600" alt="STOP and PAUSE">
-</p>
-
-### Pultrusion Speed Selection
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173403.jpg" width="600" alt="Speed">
-</p>
-
-### Material Selection
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173413.jpg" width="600" alt="Material">
-</p>
-
-### Spooler Rotation Direction
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173320.jpg" width="600" alt="Spooler rotation">
-</p>
-
-### Language Selection
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173328.jpg" width="600" alt="Language Selection">
-</p>
-
-### R3D Emergency Command
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173335.jpg" width="600" alt="R3D Emergency Command">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173341.jpg" width="600" alt="R3D Firmware">
-</p>
-
-### Filaruptor
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000725.jpg" width="600" alt="Filaruptor">
-</p>
-
-### PID AutoTune
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000808.jpg" width="600" alt="PID AutoTune">
-</p>
-
----
-
-# Recreator3D Projects
-
-### MK5
-
-- [Recreator3D MK5 Kit – Ender 3](https://www.recreator3d.com/mk5kitender3)
-- [MK5 Printable Files – Printables](https://www.printables.com/model/179820-recreator-3d-mk5kit-ender3-pultrusion-unit?lang=fr)
-
-### MK6
-
-- [Recreator3D MK6 FunSize](https://www.recreator3d.com/mk6funsize)
-- [MK6 Printable Files – Printables](https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-plastic-bot?lang=fr)
-
----
-
 # Firmware Downloads
 
 > 📦 **Download pre-compiled binaries directly from the latest [Releases Page](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/latest).**
@@ -235,6 +141,100 @@ Choose the firmware matching your motherboard, MCU variant and screen configurat
 | Configuration | Firmware |
 |---|---|
 | SV06 + CR10 Screen | [`firmwareSV06.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareSV06.bin) |
+
+---
+
+# Screenshots
+
+### Firmware 2.1.2.7
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000626.jpg" width="600" alt="Firmware 2.1.2.7">
+</p>
+
+### Bootscreen
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000625.jpg" width="600" alt="Bootscreen">
+</p>
+
+### Status Screen
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173251.jpg" width="600" alt="Status Screen">
+</p>
+
+### Info Screen
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000649.jpg" width="600" alt="Info Screen">
+</p>
+
+### STOP / PAUSE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173311.jpg" width="600" alt="STOP and PAUSE">
+</p>
+
+### Pultrusion Speed Selection
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173403.jpg" width="600" alt="Speed">
+</p>
+
+### Material Selection
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173413.jpg" width="600" alt="Material">
+</p>
+
+### Spooler Rotation Direction
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173320.jpg" width="600" alt="Spooler rotation">
+</p>
+
+### Language Selection
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173328.jpg" width="600" alt="Language Selection">
+</p>
+
+### R3D Emergency Command
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173335.jpg" width="600" alt="R3D Emergency Command">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261104_173341.jpg" width="600" alt="R3D Firmware">
+</p>
+
+### Filaruptor
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000725.jpg" width="600" alt="Filaruptor">
+</p>
+
+### PID AutoTune
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/IMG_20261105_000808.jpg" width="600" alt="PID AutoTune">
+</p>
+
+---
+
+# Recreator3D Projects
+
+### MK5
+
+- [Recreator3D MK5 Kit – Ender 3](https://www.recreator3d.com/mk5kitender3)
+- [MK5 Printable Files – Printables](https://www.printables.com/model/179820-recreator-3d-mk5kit-ender3-pultrusion-unit?lang=fr)
+
+### MK6
+
+- [Recreator3D MK6 FunSize](https://www.recreator3d.com/mk6funsize)
+- [MK6 Printable Files – Printables](https://www.printables.com/model/352729-the-recreator-3d-mk6-diy-bom-turn-pet1-plastic-bot?lang=fr)
 
 ---
 
