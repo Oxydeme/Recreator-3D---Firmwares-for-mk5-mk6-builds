@@ -181,4 +181,83 @@ Choose the firmware matching your motherboard, MCU variant and screen configurat
 | Creality 1.1.3 + E3Pro Screen | [`firmwareCreality1.1.3.elf`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality1.1.3.elf) |
 | Creality 1.1.4 + E3Pro Screen | [`firmwareCreality1.1.4.elf`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality1.1.4.elf) |
 
-## Creality
+## Creality 4.2.2 – GD MCU
+
+| MCU variant | Firmware |
+|---|---|
+| GD A | [`firmwareCreality4.2.2_GD_A.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_GD_A.bin) |
+| GD B | [`firmwareCreality4.2.2_GD_B.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_GD_B.bin) |
+| GD C | [`firmwareCreality4.2.2_GD_C.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_GD_C.bin) |
+| GD E | [`firmwareCreality4.2.2_GD_E.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_GD_E.bin) |
+| GD H | [`firmwareCreality4.2.2_GD_H.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_GD_H.bin) |
+| GD H8 | [`firmwareCreality4.2.2_GD_H8.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_GD_H8.bin) |
+
+## Creality 4.2.2 – STM32 MCU
+
+| MCU variant | Firmware |
+|---|---|
+| STM A | [`firmwareCreality4.2.2_STM_A.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_STM_A.bin) |
+| STM B | [`firmwareCreality4.2.2_STM_B.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_STM_B.bin) |
+| STM C | [`firmwareCreality4.2.2_STM_C.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_STM_C.bin) |
+| STM E | [`firmwareCreality4.2.2_STM_E.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_STM_E.bin) |
+| STM H | [`firmwareCreality4.2.2_STM_H.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_STM_H.bin) |
+| STM H8 | [`firmwareCreality4.2.2_STM_H8.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_STM_H8.bin) |
+| STM T8 | [`firmwareCreality4.2.2_STM_T8.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.2_STM_T8.bin) |
+
+## Creality 4.2.7
+
+| Configuration | Firmware |
+|---|---|
+| Creality 4.2.7 + E3Pro Screen | [`firmwareCreality4.2.7.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.2.7.bin) |
+
+## Creality 4.3.1
+
+| Configuration | Firmware |
+|---|---|
+| Creality 4.3.1 + E3Pro Screen | [`firmwareCreality4.3.1.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareCreality4.3.1.bin) |
+
+## Elegoo
+
+| Configuration | Firmware |
+|---|---|
+| Robin Nano 1.2 + E3Pro Screen | [`firmwareElegooRobinNano1.2.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareElegooRobinNano1.2.bin) |
+| Robin Nano 1.3 + E3Pro Screen | [`firmwareElegooRobinNano1.3.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareElegooRobinNano1.3.bin) |
+
+## MKS
+
+| Configuration | Firmware |
+|---|---|
+| MKS Gen L1 + E3Pro Screen | [`firmwareMKSGenL1.elf`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareMKSGenL1.elf) |
+| MKS Robin + E3Pro Screen | [`firmwareMKSRobin_e3.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareMKSRobin_e3.bin) |
+
+## Other boards
+
+| Configuration | Firmware |
+|---|---|
+| SV06 + CR10 Screen | [`firmwareSV06.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/Update/firmwareSV06.bin) |
+
+---
+
+# Installation
+
+1. Identify your motherboard and MCU variant.
+2. Verify your screen configuration.
+3. Download the matching firmware.
+4. Follow the appropriate flashing procedure for your board.
+5. Verify the machine operation before starting a pultrusion job.
+
+Always keep a backup of your original firmware and configuration.
+
+---
+
+# Credits
+
+- [Marlin Firmware](https://github.com/MarlinFirmware/Marlin) – Open-source firmware foundation.
+- @JoshuaTaylor – Project Creator
+- [Recreator3D](https://www.recreator3d.com/) – MK5 and MK6 projects.
+
+---
+
+<p align="center">
+  **Recreator3D – Turning plastic waste into something useful.**
+</p>
