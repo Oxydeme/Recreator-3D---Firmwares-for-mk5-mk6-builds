@@ -1,4 +1,4 @@
- <p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/assets/imager3dbanner.png" width="100%" alt="Recreator3D Banner">
 </p>
 
@@ -143,6 +143,8 @@ Various motherboard + screen combinations, with dedicated features for plastic r
 
 # Firmware Downloads
 
+> 📦 **Download pre-compiled binaries directly from the latest [Releases Page](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/latest).**
+
 **Marlin 2.1.2.7 – Available builds**
 
 Choose the firmware matching your motherboard, MCU variant and screen configuration.
@@ -153,16 +155,16 @@ Choose the firmware matching your motherboard, MCU variant and screen configurat
 
 | Configuration | Firmware |
 |---|---|
-| Anet 1.7 + ReprapSmart Screen | `firmwareAnet1.7.elf` |
+| Anet 1.7 + ReprapSmart Screen | [`firmwareAnet1.7.elf`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareAnet1.7.elf) |
 
 ## BigTreeTech (BTT)
 
 | Configuration | Firmware |
 |---|---|
-| Octopus 1.1 + E3Pro Screen | `firmwareOctopus1.1dual.zip` |
-| SKR Mini E3 V1 + BTT Mini12864 V2 | `firmwareSkrMiniE3v1.1.bin` |
-| SKR Mini E3 V2 + BTT Mini12864 V2.1 | `firmwareSkrMiniE3v2.bin` |
-| SKR Mini E3 V3 + E3Pro Screen | `firmwareSkrMiniE3v3.bin` |
+| Octopus 1.1 + E3Pro Screen | [`firmwareOctopus1.1dual.zip`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareOctopus1.1dual.zip) |
+| SKR Mini E3 V1 + BTT Mini12864 V2 | [`firmwareSkrMiniE3v1.1.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareSkrMiniE3v1.1.bin) |
+| SKR Mini E3 V2 + BTT Mini12864 V2.1 | [`firmwareSkrMiniE3v2.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareSkrMiniE3v2.bin) |
+| SKR Mini E3 V3 + E3Pro Screen | [`firmwareSkrMiniE3v3.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareSkrMiniE3v3.bin) |
 
 **Special build:** Octopus 1.1 version optimized for dual pultruding.
 
@@ -170,69 +172,69 @@ Choose the firmware matching your motherboard, MCU variant and screen configurat
 
 | Configuration | Firmware |
 |---|---|
-| Cheetah 1.1b + E3Pro Screen | `firmwareCheetah1.1b.elf` |
+| Cheetah 1.1b + E3Pro Screen | [`firmwareCheetah1.1b.elf`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCheetah1.1b.elf) |
 
 ## Creality 1.1.3 / 1.1.4
 
 | Configuration | Firmware |
 |---|---|
-| Creality 1.1.3 + E3Pro Screen | `firmwareCreality1.1.3.elf` |
-| Creality 1.1.4 + E3Pro Screen | `firmwareCreality1.1.4.elf` |
+| Creality 1.1.3 + E3Pro Screen | [`firmwareCreality1.1.3.elf`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality1.1.3.elf) |
+| Creality 1.1.4 + E3Pro Screen | [`firmwareCreality1.1.4.elf`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality1.1.4.elf) |
 
 ## Creality 4.2.2 – GD MCU
 
 | MCU variant | Firmware |
 |---|---|
-| GD A | `firmwareCreality4.2.2_GD_A.bin` |
-| GD B | `firmwareCreality4.2.2_GD_B.bin` |
-| GD C | `firmwareCreality4.2.2_GD_C.bin` |
-| GD E | `firmwareCreality4.2.2_GD_E.bin` |
-| GD H | `firmwareCreality4.2.2_GD_H.bin` |
-| GD H8 | `firmwareCreality4.2.2_GD_H8.bin` |
+| GD A | [`firmwareCreality4.2.2_GD_A.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_GD_A.bin) |
+| GD B | [`firmwareCreality4.2.2_GD_B.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_GD_B.bin) |
+| GD C | [`firmwareCreality4.2.2_GD_C.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_GD_C.bin) |
+| GD E | [`firmwareCreality4.2.2_GD_E.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_GD_E.bin) |
+| GD H | [`firmwareCreality4.2.2_GD_H.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_GD_H.bin) |
+| GD H8 | [`firmwareCreality4.2.2_GD_H8.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_GD_H8.bin) |
 
 ## Creality 4.2.2 – STM32 MCU
 
 | MCU variant | Firmware |
 |---|---|
-| STM A | `firmwareCreality4.2.2_STM_A.bin` |
-| STM B | `firmwareCreality4.2.2_STM_B.bin` |
-| STM C | `firmwareCreality4.2.2_STM_C.bin` |
-| STM E | `firmwareCreality4.2.2_STM_E.bin` |
-| STM H | `firmwareCreality4.2.2_STM_H.bin` |
-| STM H8 | `firmwareCreality4.2.2_STM_H8.bin` |
-| STM T8 | `firmwareCreality4.2.2_STM_T8.bin` |
+| STM A | [`firmwareCreality4.2.2_STM_A.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_STM_A.bin) |
+| STM B | [`firmwareCreality4.2.2_STM_B.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_STM_B.bin) |
+| STM C | [`firmwareCreality4.2.2_STM_C.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_STM_C.bin) |
+| STM E | [`firmwareCreality4.2.2_STM_E.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_STM_E.bin) |
+| STM H | [`firmwareCreality4.2.2_STM_H.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_STM_H.bin) |
+| STM H8 | [`firmwareCreality4.2.2_STM_H8.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_STM_H8.bin) |
+| STM T8 | [`firmwareCreality4.2.2_STM_T8.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.2_STM_T8.bin) |
 
 ## Creality 4.2.7
 
 | Configuration | Firmware |
 |---|---|
-| Creality 4.2.7 + E3Pro Screen | `firmwareCreality4.2.7.bin` |
+| Creality 4.2.7 + E3Pro Screen | [`firmwareCreality4.2.7.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.2.7.bin) |
 
 ## Creality 4.3.1
 
 | Configuration | Firmware |
 |---|---|
-| Creality 4.3.1 + E3Pro Screen | `firmwareCreality4.3.1.bin` |
+| Creality 4.3.1 + E3Pro Screen | [`firmwareCreality4.3.1.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareCreality4.3.1.bin) |
 
 ## Elegoo
 
 | Configuration | Firmware |
 |---|---|
-| Robin Nano 1.2 + E3Pro Screen | `firmwareElegooRobinNano1.2.bin` |
-| Robin Nano 1.3 + E3Pro Screen | `firmwareElegooRobinNano1.3.bin` |
+| Robin Nano 1.2 + E3Pro Screen | [`firmwareElegooRobinNano1.2.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareElegooRobinNano1.2.bin) |
+| Robin Nano 1.3 + E3Pro Screen | [`firmwareElegooRobinNano1.3.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareElegooRobinNano1.3.bin) |
 
 ## MKS
 
 | Configuration | Firmware |
 |---|---|
-| MKS Gen L1 + E3Pro Screen | `firmwareMKSGenL1.elf` |
-| MKS Robin + E3Pro Screen | `firmwareMKSRobin_e3.bin` |
+| MKS Gen L1 + E3Pro Screen | [`firmwareMKSGenL1.elf`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareMKSGenL1.elf) |
+| MKS Robin + E3Pro Screen | [`firmwareMKSRobin_e3.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareMKSRobin_e3.bin) |
 
 ## Other boards
 
 | Configuration | Firmware |
 |---|---|
-| SV06 + CR10 Screen | `firmwareSV06.bin` |
+| SV06 + CR10 Screen | [`firmwareSV06.bin`](https://github.com/Oxydeme/Recreator-3D---Firmwares-for-mk5-mk6-builds/releases/download/v1/firmwareSV06.bin) |
 
 ---
 
