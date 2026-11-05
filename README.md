@@ -171,7 +171,7 @@ Go to the firmware menu and select <b>Spooler Rotation Direction</b> to toggle t
 ## Credits & Acknowledgments
 
 - **[Marlin Firmware](https://github.com/MarlinFirmware/Marlin):** Powerful open-source 3D printer firmware base.
-- **@JoshuaTaylor:** Project Creator & Original Developer.
+- **[@JoshuaTaylor](https://github.com/joshuartaylor/TheRecreator3D):** Project Creator & Original Developer.
 - **[Recreator3D Community](https://www.recreator3d.com/):** For driving open-source plastic recycling innovation.
 
 ---
